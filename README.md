@@ -1,2 +1,5 @@
 # player_generator
-Simple Android Studio project using Kotlin
+
+App used for player development simulation in Become a Legend mode in PES 2009.
+
+
