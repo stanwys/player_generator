@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="betterfoot_prompt">Choose better foot</string>
+    <string-array name="betterfoot_array">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+    <string name="injury_tolerance_prompt">Choose injury tolerance</string>
+    <string-array name="injury_tolerance_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string name="side_prompt">Choose favourite side</string>
+</resources>

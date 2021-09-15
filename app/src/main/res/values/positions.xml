@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="position_prompt">Choose position</string>
+    <string-array name="position_array">
+        <item>Centre Forward</item>
+        <item>Second Striker</item>
+        <item>Wing Forward</item>
+        <item>Attacking Midfielder</item>
+        <item>Side Midfielder</item>
+        <item>Central Midfielder</item>
+        <item>Wing Back</item>
+        <item>Defensive Midfielder</item>
+        <item>Side Back</item>
+        <item>Centre Back</item>
+        <item>Goalkeeper</item>
+    </string-array>
+</resources>
